@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const dbConnectionUri = "mongodb+srv://louisliuhf:iRyhQ8M_9Kqgw4y@idk.d5gcq.mongodb.net/";
+const dbConnectionUri = "mongo...";
 const dbName = "DecalFinal";
 
 const professorSchema = new mongoose.Schema({
