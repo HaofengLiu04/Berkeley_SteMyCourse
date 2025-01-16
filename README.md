@@ -1,6 +1,6 @@
-# TechFounders-Web
+# Stemycourse-Web
 
-TechFounders-Web is the homepage of TecFounders, a community of econimicelites and tech enthusiasts.
+Stemycourse-Web Our website is dedicated to helping Berkeley's computer science (CS) and data science (DS) students choose courses and know their professors efficiently. Due to the variety of CS and DS course options, many students are easily confused when planning their learning paths. Our website will provide a detailed introduction of each course and professor and collect course selection suggestions and feedback from seniors to help students choose suitable courses from different directions. By summarizing recommendations and planning suggestions, our application helps users make learning plans more easily and solves the problems of information asymmetry and selection difficulties encountered by students in the process of course selection.
 
 It refers to some elements in [HTML5 Template](https://learning-zone.github.io/website-templates/creative-free-responsive-html5-business-template/), and can be rendered locally.
 
